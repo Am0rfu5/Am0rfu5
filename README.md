@@ -36,9 +36,6 @@ It should be clear that I am all in on Web3. It is a passion and something I am 
 ## Socials & Contact
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Am0rfu5) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@am0rfus)
 
-
-- 
-
 <!-- markdownlint-enable MD033 -->
 
 
