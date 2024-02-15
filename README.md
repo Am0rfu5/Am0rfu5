@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Blockchain-Developer;Solidity;Rust;Web3+Security;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Smart+Contract+Developer;Solidity;Rust;Web3+Security;">
 </p>
 
 ## Current Focus & Expertise
@@ -50,7 +50,7 @@ It should be clear that I am all in on Web3. It is a passion and something I am 
 <a href="https://docs.soliditylang.org/en" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://docs.ethers.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1200/1*SHg7SgjVtPJ-Fma-liXz_Q.png" alt="git" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
