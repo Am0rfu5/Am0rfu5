@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Smart+Contract+Developer;Solidity;Rust;Web3+Security;">
 </p>
 
-## Current Focus & Expertise
+## Focus & Expertise
 #### ![](https://img.shields.io/badge/Expertise-Blockchain_Development-informational?style=flat&logo=blockchain&logoColor=white&color=purple) ![](https://img.shields.io/badge/Expertise-Web_Development-informational?style=flat&logo=web&logColor=white&color=purple) ![](https://img.shields.io/badge/Expertise-Systems_Architecture-informational?style=flat&logo=architecture&logoColor=white&color=purple) ![](https://img.shields.io/badge/Expertise-Web3_Security-informational?style=flat&logo=blockchain&logoColor=white&color=purple)  ![](https://img.shields.io/badge/Skills-DevOps-informational?style=flat&logo=DevOps&logoColor=white&color=purple) ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=blue) ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Database-REST_API-informational?style=flat&logo=restapi&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=darkblue) 
 
 ## Blockchain Tools
