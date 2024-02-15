@@ -29,10 +29,6 @@ In mid-2022 I shifted toward performing Security Audits for Smart Contracts and 
 
 It should be clear that I am all in on Web3. It is a passion and something I am devoted to seeing to fruition. I am always looking for new opportunities to work with others who share this passion and are looking to make a positive impact on the world.
 
-~ Crypto nerd working with Blockchain, Smart Contracts and other Decentralized systems
-~ Full stack, Enterprise level, Open Source, Cloud software, DevOps
-~ Software architecture, implementation, integration, customization, networking and cybersecurity
-
 ## Socials & Contact
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Am0rfu5) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@am0rfus)
 
