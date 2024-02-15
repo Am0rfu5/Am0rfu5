@@ -30,9 +30,9 @@
 <!-- markdownlint-enable MD033 -->
 
 ## About 🔍
-```md
-"Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity." - Charles Mingus
-```
+
+> *"Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity."* - Charles Mingus
+
 As a web developer, engineer, and data integration specialist I've participated and led many development project, from inception to launch and beyond, working for dozens of companies that range from "Mom & Pop" to Fortune 500.
 
 Over the years this has included several shifts in focus, necessitated by the changes in the technology landscape.  In 2016 I was introduced to Ethereum by Joe Lubin and it was immediately apparent that what would come to be known as Web3 had the potential to transform society in an incredibly positive way. This was the beginning of what would become my sole focus as I've gone on to attend a multitude of conferences, meetups and other events and worked on a variety of projects.
