@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Smart+Contract+Developer;Solidity;Rust;Web3+Security;">
 </p>
 
-## Educational Repos
+## Repos
 
 I have a passion for mentoring and teaching, as well as exploring new concepts in a way that will further those goals. For example, in 2023 I started to organize my notes on Web3 Security into a series of books on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com) has [as an associated repo for issues and collaboratio on github](https://github.com/DF3NDR/web3_security).
 
