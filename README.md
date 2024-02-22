@@ -9,13 +9,10 @@
 
 ## Repos
 
-### What's here:
-Generally, repos I have created for teaching. I enjoy mentoring so my public repos usually reflect some effort in that direction.
+### What's here (and not):
+Generally, repos I have created for teaching. I enjoy mentoring so my public repos usually reflect some effort in that direction. The overwhelming majority of my work, most of which is work product from private contracts, is kept private, along with anything that no longer interests me.
 
-### What's not here:
-The overwhelming majority of my work. Most of that is a result of it being work product from contracts with restrictions. Some of it is just because it has become outdated or because I'm not interested in persuing the particular subject any more.
-
-### Current examples:
+### Current Repos:
 In 2022 I started to create a course on Web3 Security and have since released a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com) has [as an associated repo for issues and collaboration on github](https://github.com/DF3NDR/web3_security).
 
 I also have a number of Solidity Smart Contract example repos that I've created while showing junior developers different concepts.  These include:
