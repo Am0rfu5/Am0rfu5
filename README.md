@@ -9,7 +9,14 @@
 
 ## Repos
 
-I have a passion for mentoring and teaching, as well as exploring new concepts in a way that will further those goals. For example, in 2023 I started to organize my notes on Web3 Security into a series of books on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com) has [as an associated repo for issues and collaboratio on github](https://github.com/DF3NDR/web3_security).
+### What's here:
+Generally, repos I have created for teaching. I enjoy mentoring so my public repos usually reflect some effort in that direction.
+
+### What's not here:
+The overwhelming majority of my work. Most of that is a result of it being work product from contracts with restrictions. Some of it is just because it has become outdated or because I'm not interested in persuing the particular subject any more.
+
+### Current examples:
+In 2022 I started to create a course on Web3 Security and have since released a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com) has [as an associated repo for issues and collaboration on github](https://github.com/DF3NDR/web3_security).
 
 I also have a number of Solidity Smart Contract example repos that I've created while showing junior developers different concepts.  These include:
 - [Proxy Upgrade Contracts Example](https://github.com:Am0rfu5/ProxyUpgrade)
@@ -23,7 +30,7 @@ There are also some Rust specific resources:
 - [A mock CEX trading-platform design / Matching Engine](https://github.com/Am0rfu5/trading-platform)
 - [An intro to WASM tutorial using Rust](https://github.com/Am0rfu5/hello-wasm-tutorial)
 
-## Focus & Expertise
+## Current Focus & Skillset
 #### ![](https://img.shields.io/badge/Expertise-Blockchain_Development-informational?style=flat&logo=blockchain&logoColor=white&color=purple) ![](https://img.shields.io/badge/Expertise-Web_Development-informational?style=flat&logo=web&logColor=white&color=purple) ![](https://img.shields.io/badge/Expertise-Systems_Architecture-informational?style=flat&logo=architecture&logoColor=white&color=purple) ![](https://img.shields.io/badge/Expertise-Web3_Security-informational?style=flat&logo=blockchain&logoColor=white&color=purple)  ![](https://img.shields.io/badge/Skills-DevOps-informational?style=flat&logo=DevOps&logoColor=white&color=purple) ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=blue) ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Database-REST_API-informational?style=flat&logo=restapi&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=darkblue) 
 
 ## Blockchain Tools
