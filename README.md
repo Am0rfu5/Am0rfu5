@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Data+Integrations;Security;Web2+&+Web3;Rust;Smart+Contracts;Security;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Data+Integrations;Security;Web2+and+Web3;Rust;Smart+Contracts;Typescript;DeFi;Blockchain+Data;">
 </p>
 
 ## Repos
