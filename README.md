@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Smart+Contract+Developer;Solidity;Rust;Web3+Security;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Smart+Contract+Developer;Rust+Developer;Data+Integrations;Web3+Security;">
 </p>
 
 ## Repos
@@ -13,7 +13,7 @@
 Generally, repos I have created for teaching. I enjoy mentoring so my public repos usually reflect some effort in that direction. The overwhelming majority of my work, most of which is work product from private contracts, is kept private, along with anything that no longer interests me.
 
 ### Current Repos:
-In 2022 I started to create a course on Web3 Security and have since released a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com) has [as an associated repo for issues and collaboration on github](https://github.com/DF3NDR/web3_security).
+Since, 2022 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com), has [an associated repo for issues and collaboration on github](https://github.com/DF3NDR/web3_security).
 
 I also have a number of Solidity Smart Contract example repos that I've created while showing junior developers different concepts.  These include:
 - [Proxy Upgrade Contracts Example](https://github.com:Am0rfu5/ProxyUpgrade)
