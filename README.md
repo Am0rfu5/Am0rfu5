@@ -9,9 +9,17 @@
 
 ## Who you?
 
-I've been programming for over 40 years. That is a long time. Over that time I have come to place privacy at a very high value.  This has a detrimental effect on public reputation, one that has been generally acceptable in the security community. For the majority of my career my work has been for private contracts, and so is kept private, along with anything that no longer interests me. However, that doesn't mean I haven't contributed, just that I choose not to disclose that contribution publicly.
+I've been programming for over 40 years. That is a long time. Over that time I have come to place privacy at a very high value.  This is one of the things that drew me to Web3. Psuedonymity in a world of growing threats from all sides is a very real necessity. Unfortunately, this has a detrimental effect when dealing with the majority of people who have not realized that their freedom is reliant on being free from threat and that the requirement that others expose themselves is a requirement that they too be exposed. 
 
-FOSS softare has been a huge part of my life. I love to give back to the communities that I have gained so much from.  The repos here are the part of that which I feel comfortable with as an exposure directly IRL.  Much of it is simply instructional. There may also be experimental repos that I do just for fun but I try to keep these fairly current to keep the public facing repos uncluttered.
+In the security community this has been less problematic, but many people in the software development community, especially managers and executive, their is still a heavy reliance on completely public personas as a source of knowledge. This is an absolute boon for surveillance states, independent OSINT collectors, and data profiteering corporations. That includes all the well intentioned creators, protectors, and criminals 
+
+While I have created a tremendous amount of software, the majority of my work has been in private contracts, and so is kept private.  I can not and do not publish that work. However, that doesn't mean I haven't contributed greatly to open source project, just that I have chosen not to disclose that contribution publicly.
+
+FOSS softare has been a huge part of my life. I love to give back to the communities that I have gained so much from. Wanting to maintain a separation between those projects and my identity has had a single persistent issue. The reputational factor when others require public exposure. 
+
+The public repos here are part of my effort establish that more directly for those who require such things. Much of it is simply instructional. There may also be experimental repos that I do just for fun but I try to keep these fairly current to keep the public facing repos uncluttered.  I am planning on adding many more of my projects as I clean them of any security risks.
+
+If this all sounds a little paranoid it is only because you haven't yet learned; You are being watched, always.
 
 ### Web3 Repos:
 Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com).
