@@ -9,7 +9,7 @@
 
 ## Who you?
 
-I've been programming for over 40 years. That is a long time. Over that time I have come to place privacy at a very high value.  This is one of the things that drew me to Web3. Psuedonymity in a world of growing threats from all sides is a very real necessity. Unfortunately, this has a detrimental effect when dealing with the majority of people who have not yet realized that their freedom is reliant on their security, i.e. being free from threat. This leads them to require others to be exposed in order to establish credibility. Said differently, normies always make it very difficult to have both privacy and reputation because they are lazy and ignorant. 
+I've been programming for over 40 years. That is a long time. Over that time I have come to place privacy amongst the highest of my personal values.  This is one of the things that drew me to Web3. Psuedonymity in a world of growing threats from all sides is a very real necessity. Unfortunately, this has a detrimental effect when dealing with the majority of people who have not yet realized that their freedom is reliant on their security, i.e. being free from threat. This leads them to require others to be exposed in order to establish credibility. Said differently, normies always make it very difficult to have both privacy and reputation because they are lazy and ignorant. 
 
 In the security community this is far less problematic, but many people in the software development community in general, especially managers and executives, maintain a heavy reliance on public personas as a source of validation. This is an absolute boon for surveillance states, independent OSINT collectors, cyber criminals and data profiteering corporations. 
 
