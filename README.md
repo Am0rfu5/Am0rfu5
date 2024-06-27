@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Web3;Security;Smart+Contracts;Data+Integrations;DeFi;Blockchain;Systems%20Architecture;">
 </p>
 
-## Who you?
+
 
 I've been programming for over 40 years. That is a long time. Over that time I have come to place privacy amongst the highest of my personal values.  This is one of the things that drew me to Web3. Psuedonymity in a world of growing threats from all sides is a very real necessity. Unfortunately, this has a detrimental effect when dealing with the majority of people who have not yet realized that their freedom is reliant on their security, i.e. being free from threat. This leads them to require others to be exposed in order to establish credibility. Said differently, normies always make it very difficult to have both privacy and reputation because they are lazy and ignorant. 
 
