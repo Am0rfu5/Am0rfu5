@@ -18,7 +18,7 @@ I also have a number of Solidity Smart Contract example repos that I've created 
 - [Proxy Upgrade Contracts Example](https://github.com:Am0rfu5/ProxyUpgrade)
 - [NFTs Using Foundry](https://github.com/Am0rfu5/NFTFoundry)
 - [A NFT Raffle using Hardhat and Chainlink VRF](https://github.com/Am0rfu5/NFT-raffle)
-- [An exploration of Vitalik's Concept for a SouldBound Token](https://github.com/Am0rfu5/soulbound-token)
+- [An exploration of Vitalik's Concept for a SoulBound Token](https://github.com/Am0rfu5/soulbound-token)
 - [A Yield Farm built with Foundry that uses a React UI integrated with Metamask](https://github.com/Am0rfu5/yield-farm-demo)
 
 There are also some Rust specific resources:
