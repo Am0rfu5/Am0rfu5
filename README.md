@@ -9,9 +9,7 @@
 
 
 
-I've been programming for over 40 years. 
-
-The public repos here feature code is more instructional or experimental/just for fun.  I try to keep these fairly current to keep the public facing repos uncluttered.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
+The public repos featured here are primarily instructional, experimental, just for fun.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
 
 ### Web3 Repos:
 Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com).
