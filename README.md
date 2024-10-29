@@ -9,17 +9,9 @@
 
 
 
-I've been programming for over 40 years. That is a long time. Over that time I have come to place privacy amongst the highest of my personal values.  This is one of the things that drew me to Web3. Psuedonymity in a world of growing threats from all sides is a very real necessity. Unfortunately, this has a detrimental effect when dealing with the majority of people who have not yet realized that their freedom is reliant on their security, i.e. being free from threat. This leads them to require others to be exposed in order to establish credibility. Said differently, normies always make it very difficult to have both privacy and reputation because they are lazy and ignorant. 
+I've been programming for over 40 years. 
 
-In the security community this is far less problematic, but many people in the software development community in general, especially managers and executives, maintain a heavy reliance on public personas as a source of validation. This is an absolute boon for surveillance states, independent OSINT collectors, cyber criminals and data profiteering corporations. 
-
-This is all part of an ongoing and growing problem. For those of us who have created a great deal of software this has led to some interesting dilemmas. For example, the majority of my work has been in private contracts, and so is kept private. I can not publish that work. However, that doesn't mean I haven't contributed greatly to open source projects or published outside of those projects. When I do I am still under a variety of obligations and due to the aforementioned security threats decided it was best to keep those contributions psuedoynmous.
-
-FOSS softare has been a huge part of my life. I love to give back to the communities that I have gained so much from. However, maintaining a separation between those projects and my identity has had a single persistent issue: The reputational factor when others require public exposure. 
-
-The public repos here are part of my effort establish a more direct relationship between my online contributions for those who require such things. Much of the code is thus simply instructional. There may also be experimental repos that I do just for fun but I try to keep these fairly current to keep the public facing repos uncluttered.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
-
-If this all sounds a little paranoid then perhaps you should take a good look around.
+The public repos here feature code is more instructional or experimental/just for fun.  I try to keep these fairly current to keep the public facing repos uncluttered.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
 
 ### Web3 Repos:
 Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com).
@@ -52,11 +44,11 @@ There are also some Rust specific resources:
 
 My experience working as a developer, data integration specialist, systems architect and cybersecurity professional spans dozens of companies ranging in size from "Mom & Pop" to Fortune 500. This has been almost entirely as an independent contractor which has provided me the opportunity to be exposed to a wide range of technology stacks, design and development architectures and to maintain long term contracts and relationships.
 
-In 2016, while living in Bushwick, Brooklyn near the Morgan Ave L line subway station and I wsa introduced to Ethereum by Joe Lubin.  It was immediately apparent that what would come to be known as Web3 had the potential to transform society in an incredibly positive way. This was the beginning of a journey that would define a large part of my life for most of the next decade and continuing to this day. Attending and volunteering at a multitude of conferences, meetups and other events and working on a variety of projects, I have been all in on Web3 ever since.
+In 2016, while living in Bushwick, Brooklyn I was introduced to Ethereum by Joe Lubin.  It was immediately apparent that what would come to be known as Web3 had the potential to transform society in an incredibly positive way. This was the beginning of a journey that would define a large part of my professional work for the past 8 years. Attending and volunteering at a multitude of conferences, meetups and other events and working on a variety of projects, I have been all in on Web3 ever since.
 
 In mid-2022 I shifted entirely toward performing Security Audits for Smart Contracts and Blockchain systems. At that time there was not a lot of information on the subject and I found the researchers I worked with to be siloed and unwilling to share their knowledge. My repsonse was to take the opposite approach and provide any assistance I could to people entering the field by developing resources. The result is a a series of books meant to help make entry into the world of Web3 Security more accessible. While these are by no means complete, I have decided to make the most current versions available at https://df3ndr.com.
 
-It should be clear that I am deeply passionate about Web3. It is something I am devoted to seeing to fruition as a replacement for the current paradigm of centralized legacy systems. I am always looking for new opportunities to work with others who share this passion and are looking to make a positive impact on the world.
+I am deeply passionate about Web3. It is something I am devoted to seeing to fruition as a replacement for the current paradigm of centralized legacy systems. I am always looking for new opportunities to work with others who share this passion and are looking to make a positive impact on the world.
 
 ## Socials & Contact
 Discord: Am0rfu5
