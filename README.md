@@ -12,7 +12,7 @@
 The public repos featured here are primarily instructional, experimental, just for fun.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
 
 ### Web3 Repos:
-Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That ongoing project, which is available at [df3ndr.com](https://df3ndr.com).
+Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That and other projects are available at [df3ndr.com](https://df3ndr.com).
 
 I also have a number of Solidity Smart Contract example repos that I've created while showing junior developers different concepts.  These include:
 - [Proxy Upgrade Contracts Example](https://github.com:Am0rfu5/ProxyUpgrade)
