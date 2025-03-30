@@ -9,7 +9,17 @@
 
 
 
-The public repos featured here are primarily instructional, experimental, just for fun.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
+For my most recent work see GeniusVentures GNUS.ai repos:
+
+- [GNUS.ai Smart Contracts](https://github.com/GeniusVentures/gnus-ai): EVM compatible contracts (Solidity) and related deployment, monitory and validation for the GNUS Blockchain system.
+- [Hardhat-Mulitchain](https://github.com/GenuisVentures/hardhat-multichain): A node module for launching multiple Hardhat forked chains locally. 
+- [Diamonds](https://github.com/GeniusVentures/diamonds): A node module deploying, upgrading, validating and monitoring ERC-2535 Diamond Proxy Standard Contract systems.
+- [ERC20-GNUS-Proxy Smart Contracts]((https://github.com/GeniusVentures/erc20-gnus-proxy): Proxy Contracts for creating or bridging ERC20 tokens on the GNUS Blockchain system.
+- [Hardhat-Diamonds](https://github.com/GeniusVentures/hardhat-diamonds): A node module for setting configurations in hardhat.config.ts and performing tasks associated with the Diamonds module.
+
+My blockchain security books and blog can be found at [df3ndr.com](https://df3ndr.com)
+
+The public repos featured in the profile are primarily instructional, experimental, or just for fun.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
 
 ### Web3 Repos:
 Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That and other projects are available at [df3ndr.com](https://df3ndr.com).
