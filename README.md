@@ -14,7 +14,7 @@ For my most recent work see GeniusVentures GNUS.ai repos:
 - [GNUS.ai Smart Contracts](https://github.com/GeniusVentures/gnus-ai): EVM compatible contracts (Solidity) and related deployment, monitory and validation for the GNUS Blockchain system.
 - [Hardhat-Mulitchain](https://github.com/GenuisVentures/hardhat-multichain): A node module for launching multiple Hardhat forked chains locally. 
 - [Diamonds](https://github.com/GeniusVentures/diamonds): A node module deploying, upgrading, validating and monitoring ERC-2535 Diamond Proxy Standard Contract systems.
-- [ERC20-GNUS-Proxy Smart Contracts]((https://github.com/GeniusVentures/erc20-gnus-proxy): Proxy Contracts for creating or bridging ERC20 tokens on the GNUS Blockchain system.
+- [ERC20-GNUS-Proxy Smart Contracts](https://github.com/GeniusVentures/erc20-gnus-proxy): Proxy Contracts for creating or bridging ERC20 tokens on the GNUS Blockchain system.
 - [Hardhat-Diamonds](https://github.com/GeniusVentures/hardhat-diamonds): A node module for setting configurations in hardhat.config.ts and performing tasks associated with the Diamonds module.
 
 My blockchain security books and blog can be found at [df3ndr.com](https://df3ndr.com)
