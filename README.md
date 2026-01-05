@@ -8,12 +8,13 @@
 </p>
 
 
-
 For my most recent work see GeniusVentures GNUS.ai repos:
 
 - [Founder of the Diamonds Lab](https://github.com/DiamondsLab): a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the ERC2535 Diamonds Proxy Standard. 
 - [Diamonds](https://github.com/diamondslab/diamonds): A node module deploying, upgrading, validating and monitoring ERC-2535 Diamond Proxy Standard Contract systems.
-- [Hardhat-Diamonds](https://github.com/diamonds/hardhat-diamonds): A node module for setting configurations in hardhat.config.ts and performing tasks associated with the Diamonds module.
+- [Hardhat-Diamonds](https://github.com/diamondslab/hardhat-diamonds): A node module for setting configurations in hardhat.config.ts and performing tasks associated with the Diamonds module.
+- [Diamonds-Hardhat-Foundry](https://github.com/diamondslab/diamonds-hardhat-foundry): Hardhat node module plugin that seamlessly integrates Foundry testing with ERC-2535 Diamond proxy contracts. This plugin provides deployment helpers, test scaffolding, and automated test generation for Diamond-based smart contracts using Foundry's powerful testing framework.
+- [Diamonds-Monitor](https://github.com/DiamondsLab/diamonds-monitor): Professional monitoring and reporting tools for ERC-2535 Diamond Proxy contracts that utilize the Diamonds module.  Both Stand-Alone and hardhat node module.
 - [Hardhat-Mulitchain](https://github.com/diamondslab/hardhat-multichain): A node module for launching multiple Hardhat forked chains locally. 
 - [GNUS.ai Smart Contracts](https://github.com/GeniusVentures/gnus-ai/tree/develop): EVM compatible contracts (Solidity) and related deployment, monitory and validation for the GNUS Blockchain system.
 - [ERC20-GNUS-Proxy Smart Contracts](https://github.com/GeniusVentures/erc20-gnus-proxy): Proxy Contracts for creating or bridging ERC20 tokens on the GNUS Blockchain system.
