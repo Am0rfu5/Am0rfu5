@@ -8,22 +8,33 @@
 </p>
 
 
-For my most recent work see GeniusVentures GNUS.ai repos:
+## Founder of DiamondsLab: ERC-2535 Diamond Proxy Managment System
 
-- [Founder of the Diamonds Lab](https://github.com/DiamondsLab): a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the ERC2535 Diamonds Proxy Standard. 
+A collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the ERC2535 Diamonds Proxy Standard. The ERC2535 Diamonds standard enables modular smart contract systems with upgradeable functionality, unlimited contract size, and efficient organization of code. DiamondsLab provides a comprehensive toolkit to make working with Diamonds simple, efficient, and developer-friendly.
+
 - [Diamonds](https://github.com/diamondslab/diamonds): A node module deploying, upgrading, validating and monitoring ERC-2535 Diamond Proxy Standard Contract systems.
 - [Hardhat-Diamonds](https://github.com/diamondslab/hardhat-diamonds): A node module for setting configurations in hardhat.config.ts and performing tasks associated with the Diamonds module.
 - [Diamonds-Hardhat-Foundry](https://github.com/diamondslab/diamonds-hardhat-foundry): Hardhat node module plugin that seamlessly integrates Foundry testing with ERC-2535 Diamond proxy contracts. This plugin provides deployment helpers, test scaffolding, and automated test generation for Diamond-based smart contracts using Foundry's powerful testing framework.
 - [Diamonds-Monitor](https://github.com/DiamondsLab/diamonds-monitor): Professional monitoring and reporting tools for ERC-2535 Diamond Proxy contracts that utilize the Diamonds module.  Both Stand-Alone and hardhat node module.
 - [Hardhat-Mulitchain](https://github.com/diamondslab/hardhat-multichain): A node module for launching multiple Hardhat forked chains locally. 
-- [GNUS.ai Smart Contracts](https://github.com/GeniusVentures/gnus-ai/tree/develop): EVM compatible contracts (Solidity) and related deployment, monitory and validation for the GNUS Blockchain system.
+
+## Lead Engineer and Principle Developer for GNUS.ai Smart Contract Projects
+
+- [GNUS.ai Smart Contracts](https://github.com/GeniusVentures/gnus-ai/tree/develop): EVM compatible contracts (Solidity) and related deployment (Diamonds), monitoring and validation for the GNUS Blockchain system.
+- [GNUS-DAO]()
+- [GNUS-DAO-Website]()
 - [ERC20-GNUS-Proxy Smart Contracts](https://github.com/GeniusVentures/erc20-gnus-proxy): Proxy Contracts for creating or bridging ERC20 tokens on the GNUS Blockchain system.
 
-My blockchain security books and blog can be found at [df3ndr.com](https://df3ndr.com)
+## Cybersecurity
 
-The public repos featured in the profile are primarily instructional, experimental, or just for fun.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
+- My **Web3 Security books** and blog can be found at [df3ndr.com](https://df3ndr.com)
+- [Ithron](https://github.com/DF3NDR/Ithron): A professional, production-ready VS Code Dev Container based on Kali Linux for security analysis, penetration testing, tool development, and server management.
+- [Paladin](https://github.com/DF3NDR/paladin-dev-env) : Paladin is an enterprise capable AI Orchestration system designed using hexagonal architecture principles to provide robust and flexible handling of a large range of functionality including processing any type of content (structured documents, test, audio, video, images, etc), notification management (push, email, sms, etc), machine learning integrations (LLM's, ML, etc), and content delivery mechanisms (web servers, streaming, apis, etc).
 
-### Web3 Repos:
+## Web3 Repos:
+
+The following are primarily instructional, experimental, or just for fun.  I may be adding more of my projects as I clean them of any security risks or I may just create some new projects that fit this space.
+
 Since, 2021 I've been creating resources for those new to Web3 Security and released much of this as a series of "books" on the subject. That and other projects are available at [df3ndr.com](https://df3ndr.com).
 
 I also have a number of Solidity Smart Contract example repos that I've created while showing junior developers different concepts.  These include:
